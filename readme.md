@@ -5,6 +5,8 @@ LearnToEarn is a smart contract built on the Ethereum blockchain that allows use
 
 ## Contract Address
 0x7D964FE7094DE90A1705b6a58487d5C034E81A40
+![image](https://github.com/user-attachments/assets/f93a1ba6-9a50-4395-9fdd-c39c2a99b8e5)
+
 
 ## Project Vision
 The vision of LearnToEarn is to create an ecosystem where users are incentivized for their educational achievements and milestones. By combining NFTs with token rewards, the platform offers both collectible and financial incentives for learning and accomplishment. This project aims to promote lifelong learning and make rewards more tangible by integrating blockchain technology into the educational process.
